@@ -1,0 +1,22 @@
+{
+  "name": "promise-based-pub-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BubbleBear/promise-based-pub-sub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BubbleBear/promise-based-pub-sub/issues"
+  },
+  "homepage": "https://github.com/BubbleBear/promise-based-pub-sub#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
